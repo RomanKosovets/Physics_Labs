@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## About
-Здесь вы можете увидеть выполненные ЛР по физике 2022 год 
+Здесь вы можете увидеть выполненные ЛР по физике 1-2 курс
 
 ## Documentation
 
