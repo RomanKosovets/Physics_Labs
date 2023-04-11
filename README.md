@@ -20,6 +20,6 @@
 4. [Исследование поляризации света (Стопа Столетова) 4.09](https://github.com/RomanKosovets/Physics_Labs/blob/main/Labs_3sem_description/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9B%D0%A0%204.09.pdf)
 
 Описание лабораторных работ 4 семестр:
-1. [Внешний фотоэффект; исследование характеристик фотоэлемента с внешним фотоэффектом 5.02]()
-2. [Изучение принципов работы квантовой криптографии 5.06]()
-3. [Опыт Франка Герца с неоном 5.10]()
+1. [Внешний фотоэффект; исследование характеристик фотоэлемента с внешним фотоэффектом 5.02](https://github.com/RomanKosovets/Physics_Labs/blob/main/Labs_4sem_description/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9B%D0%A0%205.02.pdf)
+2. [Изучение принципов работы квантовой криптографии 5.06](https://github.com/RomanKosovets/Physics_Labs/blob/main/Labs_4sem_description/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9B%D0%A0%205.06.pdf)
+3. [Опыт Франка Герца с неоном 5.10](https://github.com/RomanKosovets/Physics_Labs/blob/main/Labs_4sem_description/%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9B%D0%A0%205.10.pdf)
